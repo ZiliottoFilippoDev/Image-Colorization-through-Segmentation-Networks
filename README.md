@@ -11,7 +11,7 @@ https://github.com/ZiliottoFilippoDev/Image-Colorization-through-Segmentation-Ne
 <img src="https://raw.githubusercontent.com/SaverioMonaco/Image-Colorization-through-Segmentation/master/merging/index.png">
 
 **Results**
-![alt text](Results.png)
+![Alt text](Results.png)
 
 ### References:
 * https://richzhang.github.io/colorization/
