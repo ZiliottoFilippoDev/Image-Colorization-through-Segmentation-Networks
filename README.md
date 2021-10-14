@@ -4,11 +4,14 @@
 #### [Saverio Monaco](https://github.com/SaverioMonaco/)
 #### [Filippo Zillotto](https://github.com/ZiliottoFilippoDev)
 
-<img src="https://raw.githubusercontent.com/SaverioMonaco/Image-Colorization-through-Segmentation/master/merging/index.png">
-![Alt Text](Results.png)
 **Ours**
+https://github.com/ZiliottoFilippoDev/Image-Colorization-through-Segmentation-Networks/blob/faed6d1a0730de39ff9d89021fa3510ade49281b/paper.pdf
 
 
+<img src="https://raw.githubusercontent.com/SaverioMonaco/Image-Colorization-through-Segmentation/master/merging/index.png">
+
+**Results**
+![alt text](Results.png)
 
 ### References:
 * https://richzhang.github.io/colorization/
