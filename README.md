@@ -9,8 +9,6 @@ https://github.com/ZiliottoFilippoDev/Image-Colorization-through-Segmentation-Ne
 
 
 <img src="https://raw.githubusercontent.com/SaverioMonaco/Image-Colorization-through-Segmentation/master/merging/index.png">
-
-**Results**
 ![Alt text](Results.jpg)
 
 ### References:
